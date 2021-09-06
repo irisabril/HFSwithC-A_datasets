@@ -1,0 +1,34 @@
+Number of machines in subline 1
+
+Number of stages subline 1
+
+Number of machines in each stage in subline 1
+
+Number of batches in subline 1
+
+Machine processing time in subline 1 per batch
+
+Machine setup time per product in subline 1 
+
+Compatibility Batch-Machine matrix for subline 1
+
+Number of machines in subline 2
+
+Number of stages subline 2
+
+Number of machines in each stage in subline 2
+
+Number of batches in subline 2
+
+Machine processing time in subline 2 per batch
+
+Machine setup time per product in subline 2 
+
+Compatibility Batch-Machine matrix for subline 2
+
+
+BatchesxBatches matrix for subline 1, a set up is required between batch i and batch j if there is a 1 in cell ij 
+
+BatchesxBatches matrix for subline 2, a set up is required between batch i and batch j if there is a 1 in cell ij 
+
+
