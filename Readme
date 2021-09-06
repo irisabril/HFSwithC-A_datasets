@@ -26,7 +26,6 @@ Machine setup time per product in subline 2
 
 Compatibility Batch-Machine matrix for subline 2
 
-
 BatchesxBatches matrix for subline 1, a set up is required between batch i and batch j if there is a 1 in cell ij 
 
 BatchesxBatches matrix for subline 2, a set up is required between batch i and batch j if there is a 1 in cell ij 
